@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: '',
+    href: 'https://squidswap.finance/',
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: '',
+    href: 'https://squidswap.finance/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: '',
+    href: 'https://squidswap.finance/pools',
   },
   // {
   //   label: 'Lottery',
