@@ -94,17 +94,15 @@ const config: MenuEntry[] = [
 
       {
         label: 'Github',
-        href: 'https://drive.google.com/file/d/1iUBwYF-QiP4LoukpfHezW2WREl3t2bMJ/view',
+        href: 'https://github.com/squidswapnft',
       },
       {
-        label: 'Docs',
-        href: 'https://drive.google.com/file/d/1iUBwYF-QiP4LoukpfHezW2WREl3t2bMJ/view',
+        label: 'Whitepaper',
+        href: 'https://drive.google.com/file/d/1wSwiCBAVRPKY9QaHsgKcC-h_QRXEv8A8/view?usp=drivesdk',
       },
-      {
-        label: 'Blog',
-        href: 'https://drive.google.com/file/d/1iUBwYF-QiP4LoukpfHezW2WREl3t2bMJ/view',
-      },
+
     ],
+
   },
 ]
 
